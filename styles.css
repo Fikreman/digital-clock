@@ -1,0 +1,28 @@
+#clock{
+    color: blue;
+    font-weight:bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    margin-left: 400px;
+    border: solid ;
+    border-radius: 80px;
+    margin-right: 400px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    text-align: center;
+    background-color: rgb(224, 210, 238);
+}
+ 
+#digitalClock {
+border-radius: 60px;
+border: solid rgb(255, 0, 170) 9px;
+ background-color: #66ffff;
+ width: 35%;
+ margin: auto;
+ padding-top: 50px;
+ padding-bottom: 50px;
+ font-family: 'Open Sans Condensed', sans-serif;
+ font-size: 64px;
+ text-align: center;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
